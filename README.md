@@ -61,7 +61,7 @@ Your final score determines your environmental impact:
 
 ## About the Developers
 
-**Team CERSHADOWS:**
+**Team CYBER SHADOWS:**
 - **Aditi Sah**
 - **Shivya Huria**
 
