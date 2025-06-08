@@ -29,7 +29,7 @@ Legacy Builder challenges players to rethink past actions and make better decisi
 
 1. **Launch the Game:** Open the Legacy Builder project in Scratch 3.0.
 2. **Read In-Game Conversations:** Carefully follow the story to understand your objectives.
-3. **Building Task:** Complete two houses. Each completed house earns you 5 marks.
+3. **Building Task:** Complete three animals . Each completed animal earns you 5 marks.
 4. **Make Eco-friendly Decisions:** Choose sustainable options to improve your score and impact.
 5. **View Your Score:** At the end, check your score to evaluate your performance.
 
