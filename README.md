@@ -43,9 +43,9 @@ Legacy Builder challenges players to rethink past actions and make better decisi
 
 Your final score determines your environmental impact:
 
-- **Stage 1 (Score 1–5):** Be more careful about your future.
-- **Stage 2 (Score 5–10):** Develop a deeper love for the environment.
-- **Stage 3 (Score 10–15):** You have the potential to create and improve the future.
+- **Stage 1 (Score 1–15):** Be more careful about your future.
+- **Stage 2 (Score 15-30):** Develop a deeper love for the environment.
+- **Stage 3 (Score 30-45):** You have the potential to create and improve the future.
 
 ---
 
